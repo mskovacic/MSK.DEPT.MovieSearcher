@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MSK.DEPT.MovieSearcher.AppHost/MSK.DEPT.MovieSearcher.AppHost.csproj" />
+  <Project Path="MSK.DEPT.MovieSearcher.Server/MSK.DEPT.MovieSearcher.Server.csproj" />
+</Solution>
